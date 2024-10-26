@@ -1,7 +1,7 @@
 Hi 👋 My name is Cemil Özcan
 ============================
 
-Junior Back-End Web Development
+Junior Back-End Web Developer
 -------------------------------
 
 I graduated from Marmara University Business Administration Bachelor's degree & Ahmet Yesevi University Computer Programming Associate's degree

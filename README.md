@@ -1,4 +1,4 @@
-Hi 👋 My name is Cemil Özcan
+Hi 👋 I'm Cemil
 ============================
 
 Junior Back-End Web Developer

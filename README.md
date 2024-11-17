@@ -7,7 +7,6 @@ Junior Back-End Web Developer
 I graduated from Marmara University Business Administration Bachelor's degree & Ahmet Yesevi University Computer Programming Associate's degree
 
 * 🌍  I'm based in İzmir
-* ✉️  You can contact me at [cemilozcan35@gmail.com](mailto:cemilozcan35@gmail.com)
 * 🧠  I'm learning I’m currently learning C#, .Net Core, LINQ, Ado.net, Rest API, SQL, Bootstrap
 
 ### Skills
